@@ -5,7 +5,7 @@
 
 public class Pi 
 {
-	static int N = 10000;
+	static int N = 100000;
 
 	public static void main (String args[])
 	{
